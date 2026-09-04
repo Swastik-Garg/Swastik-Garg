@@ -65,9 +65,42 @@ I enjoy identifying vulnerabilities, understanding attack methodologies, and bui
 
 ## 🚀 Featured Projects
 
-### 🔎 Web & API Security
+### 🌐 API Penetration Testing
 
-Hands-on security testing projects focused on identifying vulnerabilities in web applications and APIs using industry-standard methodologies and tools.
+Performed hands-on **API security testing** to identify vulnerabilities and security weaknesses across API endpoints.
+
+**Areas Tested:**
+
+* Authentication & Authorization
+* Broken Access Control
+* Input Validation
+* SQL Injection
+* Rate Limiting
+* Session Management
+* API Parameter Manipulation
+* OWASP API Security Top 10
+
+---
+
+### 🔎 Real-World Web Application Penetration Testing
+
+Conducted security testing of a **real-world web application** using a structured VAPT methodology.
+
+**Activities Performed:**
+
+* Information Gathering & Reconnaissance
+* Attack Surface Mapping
+* Authentication & Session Testing
+* Access Control Testing
+* Input Validation Testing
+* SQL Injection Testing
+* Business Logic Testing
+* OTP & Authentication Mechanism Testing
+* Vulnerability Validation
+* Evidence & Screenshot Collection
+* VAPT Report Preparation
+
+---
 
 ### 🛡️ Digital Evidence & Forensics System
 
@@ -82,6 +115,13 @@ A Python-based forensic evidence management system designed to maintain the inte
 * Chain of custody
 * SQLite database
 * Automated forensic report generation
+
+---
+
+### ⚡ Security Automation
+
+Python-based security utilities designed to automate repetitive cybersecurity tasks, improve reconnaissance workflows, and simplify security assessment processes.
+
 
 ### ⚡ Security Automation
 
