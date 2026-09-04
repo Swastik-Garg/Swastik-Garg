@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Swastik Garg</h1>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Swastik+Garg;Cybersecurity+Enthusiast;VAPT+%7C+Web+Security+%7C+API+Security;Penetration+Testing+%7C+Security+Automation" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CYBERSECURITY-ENTHUSIAST-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
