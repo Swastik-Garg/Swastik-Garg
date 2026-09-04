@@ -3,53 +3,44 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CYBERSECURITY-ENTHUSIAST-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/OFFENSIVE-VAPT-black?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEFENSIVE-SOC-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/WEB-SECURITY-blue?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/SECURITY-AUTOMATION-green?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>Cybersecurity | VAPT | SOC | Security Automation</b>
+  <b>Cybersecurity | VAPT | Web & API Security | Security Automation</b>
 </p>
 
 ---
 
 ## 🛡️ About Me
 
-I'm a Cybersecurity enthusiast with a strong interest in **Web Application Security, Vulnerability Assessment & Penetration Testing (VAPT), SOC Operations, and Security Automation**.
+I'm a Cybersecurity enthusiast focused on **Web Application Security, Vulnerability Assessment & Penetration Testing (VAPT), API Security, and Security Automation**.
 
-I enjoy understanding how systems can be attacked, identifying security weaknesses, and building practical solutions to improve security.
+I enjoy identifying vulnerabilities, understanding attack methodologies, and building practical security solutions.
 
-* 🔐 **Focus:** Web Security, VAPT & Vulnerability Management
-* 🛡️ **Exploring:** SOC Operations, SIEM & Threat Detection
-* 🐍 **Automation:** Python & Bash scripting
-* 🌐 **Security Testing:** Web & API Security
+* 🔐 **Focus:** Web Security & VAPT
+* 🌐 **Specialization:** Web & API Security Testing
+* 🔎 **Interests:** Reconnaissance & Vulnerability Research
+* 🐍 **Automation:** Python & Bash Scripting
 * 🐧 **Environment:** Kali Linux & Linux
-* 🚀 **Goal:** Build practical cybersecurity solutions and continuously improve my security skills
+* 🎯 **Goal:** Build practical cybersecurity solutions and continuously improve my offensive security skills
 
 ---
 
-## 🛠️ Cybersecurity Arsenal
+## 🛠️ Security Arsenal
 
-| 🔴 Offensive Security    | 🔵 Defensive Security | ⚙️ Programming & Automation | 🧰 Tools   |
-| :----------------------- | :-------------------- | :-------------------------- | :--------- |
-| Web VAPT                 | SOC Fundamentals      | Python                      | Burp Suite |
-| API Security Testing     | Log Analysis          | Bash                        | Nmap       |
-| Reconnaissance           | Network Analysis      | C / C++                     | Wireshark  |
-| Vulnerability Assessment | Threat Detection      | JavaScript                  | Metasploit |
-| OWASP Top 10             | SIEM Concepts         | SQL                         | Gobuster   |
-| Authentication Testing   | Incident Response     | Tkinter                     | SQLMap     |
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,bash,linux,kali,git,github,vscode,docker,mysql" />
-</p>
+| 🔴 Offensive Security    | 🌐 Web & API Security  | ⚙️ Programming & Automation |
+| :----------------------- | :--------------------- | :-------------------------- |
+| Penetration Testing      | OWASP Top 10           | Python                      |
+| Vulnerability Assessment | API Testing            | Bash                        |
+| Reconnaissance           | Authentication Testing | C / C++                     |
+| Security Testing         | SQL Injection          | JavaScript                  |
+| Exploitation             | Access Control Testing | SQL                         |
 
 ---
 
-## 🔐 Security Tools
+## 🔧 Security Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
@@ -57,7 +48,17 @@ I enjoy understanding how systems can be attacked, identifying security weakness
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-4C4CFF?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-black?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gobuster-grey?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+## 💻 Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,bash,linux,kali,git,github,vscode,mysql" />
 </p>
 
 ---
@@ -66,11 +67,13 @@ I enjoy understanding how systems can be attacked, identifying security weakness
 
 ### 🔎 Web & API Security
 
-Security testing projects focused on identifying vulnerabilities in web applications and APIs using industry-standard methodologies and tools.
+Hands-on security testing projects focused on identifying vulnerabilities in web applications and APIs using industry-standard methodologies and tools.
 
 ### 🛡️ Digital Evidence & Forensics System
 
-A Python-based forensic evidence management system featuring:
+A Python-based forensic evidence management system designed to maintain the integrity and traceability of digital evidence.
+
+**Key Features:**
 
 * SHA-256 & BLAKE3 hashing
 * Evidence acquisition
@@ -82,7 +85,7 @@ A Python-based forensic evidence management system featuring:
 
 ### ⚡ Security Automation
 
-Developing Python-based utilities to automate repetitive cybersecurity tasks, improve reconnaissance workflows, and simplify security assessment.
+Python-based security utilities designed to automate repetitive cybersecurity tasks, improve reconnaissance workflows, and simplify security assessment processes.
 
 ---
 
@@ -91,32 +94,23 @@ Developing Python-based utilities to automate repetitive cybersecurity tasks, im
 * 🎓 Google Cybersecurity Professional Certificate
 * 🔐 Cybersecurity Foundations
 * 🐧 Linux & Shell Scripting
-* 🛡️ Ethical Hacking & VAPT Training
+* 🛡️ Ethical Hacking & VAPT
 * 🌐 Web & API Security
 * 🚀 Continuous Cybersecurity Learning
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Currently Exploring
 
 ```text
 Web Application Security     ████████████████████
 API Security                 ██████████████████░░
-VAPT                         ██████████████████░░
-SOC Operations               ███████████████░░░░░
-SIEM & Threat Detection      ██████████████░░░░░░
+Vulnerability Assessment     ██████████████████░░
+Penetration Testing          █████████████████░░░
 Security Automation          ████████████████░░░░
-Cloud Security               ████████████░░░░░░░░
+Reconnaissance               ███████████████░░░░░
+Cloud Security               ███████████░░░░░░░░░
 ```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -134,9 +128,9 @@ Cloud Security               ████████████░░░░░
 ---
 
 <p align="center">
-  <b>🔐 Learn. Hack. Defend. Automate. Repeat.</b>
+  <b>🔐 Learn. Hack. Secure. Automate.</b>
 </p>
 
 <p align="center">
-  <i>Building practical cybersecurity skills, one vulnerability at a time.</i>
+  <i>Breaking systems to understand them. Securing them to make them stronger.</i>
 </p>
